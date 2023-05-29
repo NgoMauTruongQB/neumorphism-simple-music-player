@@ -167,7 +167,6 @@ const app = {
             let newCdWidth = cdWidth - scrollTop
             let newCdHeight = cdHeight - scrollTop
             if(newCdWidth < 0 || newCdWidth == 0) {
-                cd.style.border = 'none'
                 newCdWidth = 0
                 newCdHeight = 0
             }
