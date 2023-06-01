@@ -5,11 +5,11 @@ A simple music streaming website created during the process of learning Javascri
 <div width="100%" align="center">
     <div width="100%" >
         <span width="60%" align="center">
-            <img height="300px" src="./assets/img/demo/Nest Hub.png" alt="">
+            <img height="260px" src="./assets/img/demo/Nest Hub.png" alt="">
         </span>
         <span width="40%" align="center">
-            <img height="300px" src="./assets/img/demo/iPhone 12 Pro.png" alt="">
-            <img height="300px" src="./assets/img/demo/iPhone 12 Pro_2.png" alt="">
+            <img height="260px" src="./assets/img/demo/iPhone 12 Pro.png" alt="">
+            <img height="260px" src="./assets/img/demo/iPhone 12 Pro_2.png" alt="">
         </span>
     </div>
 </div>
